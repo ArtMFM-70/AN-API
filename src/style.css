@@ -1,0 +1,15 @@
+body {
+  min-height: 100vh;
+  max-width: 100vw;
+  overflow-x: hidden;
+  display: grid;
+  place-items: center;
+}
+
+main {
+  background: var(--bs-tertiary-bg);
+  width: 30rem;
+  height: auto;
+  padding: 3rem 5rem;
+  border-radius: 1rem;
+}
